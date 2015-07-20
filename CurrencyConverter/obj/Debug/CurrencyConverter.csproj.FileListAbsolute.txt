@@ -1,0 +1,4 @@
+D:\Projects\CroweCurrencyConversionAPI\CurrencyConverter\bin\Debug\CurrencyConverter.dll
+D:\Projects\CroweCurrencyConversionAPI\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\Projects\CroweCurrencyConversionAPI\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+D:\Projects\CroweCurrencyConversionAPI\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
